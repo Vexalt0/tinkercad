@@ -33,8 +33,8 @@ img{
     margin-top: 5em;
     color: blue;
 }
-/* Conteneur qui aligne les 2 boutons sur la même ligne
-.conteneur-boutons { */
+/* Conteneur qui aligne les 2 boutons sur la même ligne */
+.conteneur-boutons {
     display: flex;
     width: 100%;             /* Prend toute la largeur de la page */
     justify-content: space-around; /* Place le centre des boutons à 1/4 et 3/4 */
