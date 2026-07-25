@@ -44,9 +44,7 @@ img{
 
 
 .bouton {/* Style de tes boutons (optionnel) */
-    text-decoration: none;
     padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
+    color: blue;
     border-radius: 5px;
 }
