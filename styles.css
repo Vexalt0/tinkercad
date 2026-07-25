@@ -33,3 +33,20 @@ img{
     margin-top: 5em;
     color: blue;
 }
+
+.conteneur-boutons {/* Conteneur qui aligne les 2 boutons sur la même ligne */
+    display: flex;
+    width: 100%;             /* Prend toute la largeur de la page */
+    justify-content: space-around; /* Place le centre des boutons à 1/4 et 3/4 */
+    align-items: center;
+    margin-top: 30px;        /* Espacement au-dessus des boutons */
+}
+
+
+.bouton {/* Style de tes boutons (optionnel) */
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+}
