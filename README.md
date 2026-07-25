@@ -10,4 +10,4 @@ Bienvenue sur mon projet web !
 
 ## 📷 Capture / Image
 
-![Code de lumière](code-lumiere.png)
+![Code lumière](code%20lumi%C3%A8re.png)
