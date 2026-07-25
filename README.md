@@ -11,4 +11,4 @@
 </ul>
 
 <h2>📷 Logigramme</h2>
-<img src="code de lumière.png" alt="Description d'image">
+<img src="code de lumière.png" alt="Tinkercad">
