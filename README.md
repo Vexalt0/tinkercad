@@ -1,13 +1,14 @@
 # Mon Projet Tinkercad
 
-Bienvenue sur mon projet web !
+<h1>Mon Projet Tinkercad</h1>
+<p>Bienvenue sur mon projet web !</p>
 
-## 📂 Contenu du projet
+<h2>📁 Contenu du projet</h2>
+<ul>
+  <li>🏠 Page d'accueil : <a href="index.html">index.html</a></li>
+  <li>📄 Seconde page : <a href="page2.html">page2.html</a></li>
+  <li>🎨 Feuille de style : <a href="styles.css">styles.css</a></li>
+</ul>
 
-* 🏠 **Page d'accueil :** [Voir index.html](index.html)
-* 📄 **Seconde page :** [Voir page2.html](page2.html)
-* 🎨 **Feuille de style :** [Voir styles.css](styles.css)
-
-  
-* <img width="718" height="865" alt="code de lumière" src="https://github.com/user-attachments/assets/322fb54e-8ba8-4934-a712-29be1555597f" />
-
+<h2>📷 Logigramme</h2>
+<img src="code-lumiere.png" alt="Logigramme Tinkercad">
