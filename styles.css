@@ -35,7 +35,7 @@ img{
 }
 /* Conteneur qui aligne les 2 boutons sur la même ligne */
 .conteneur-boutons {
-    display: flex;
+    display: block;
     width: 100%;             /* Prend toute la largeur de la page */
     justify-content: space-around; /* Place le centre des boutons à 1/4 et 3/4 */
     align-items: center;
@@ -44,6 +44,7 @@ img{
 
 /* Style de tes boutons (optionnel) */
 .bouton {
+    display: block;
     padding: 10px 20px;
     color: blue;
     border-radius: 5px;
