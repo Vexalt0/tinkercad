@@ -1,9 +1,3 @@
-# Mon Projet Tinkercad
-
-<h1>Mon Projet Tinkercad</h1>
-<p>Bienvenue sur mon projet web !</p>
-
-<h2>📁 Contenu du projet</h2>
 <ul>
   <li>🏠 Page d'accueil : <a href="index.html">index.html</a></li>
   <li>📄 Seconde page : <a href="page2.html">page2.html</a></li>
