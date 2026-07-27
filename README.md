@@ -10,4 +10,4 @@
   <li>🎨 Feuille de style : <a href="styles.css">styles.css</a></li>
 </ul>
 <img src="code-lumiere.png" alt="Logigramme Tinkercad">
-<img src="code_ecran_I2c.png" alt="Logigramme Tinkercad">
+
