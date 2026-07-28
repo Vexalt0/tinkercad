@@ -49,3 +49,30 @@ img{
     color: blue;
     border-radius: 5px;
 }
+.conteneur-centre {
+    display: flex;
+    justify-content: content-center; /* Centre le bouton horizontalement */
+    justify-content: center;
+    margin: 20px 0; /* Ajoute un petit espace au-dessus et en-dessous */
+  }
+.btn-logigramme {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.2s, transform 0.1s;
+  }
+
+  .btn-logigramme:hover {
+    background-color:white;
+    color: black;
+  }
+
+  .btn-logigramme:active {
+    transform: scale(0.98);
+  }
