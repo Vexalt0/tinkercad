@@ -11,4 +11,4 @@
 </ul>
 <img src="code-lumiere.png" alt="Logigramme Tinkercad">
 <img src="code_ecran_I2c.png" alt="Logigramme Tinkercad">
-<img src="code_ecran_I2c.png" alt="Logigramme Tinkercad">
+<img src="code_auto-manuel_simplifié.png" alt="Logigramme Tinkercad">
