@@ -12,3 +12,4 @@
 <img src="code-lumiere.png" alt="Logigramme Tinkercad">
 <img src="code_ecran_I2c.png" alt="Logigramme Tinkercad">
 <img src="code_auto-manuel_simplifié1.png" alt="Logigramme Tinkercad">
+<img src="code_auto-manuel_complet.png" alt="Logigramme Tinkercad">
